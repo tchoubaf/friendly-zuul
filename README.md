@@ -3,3 +3,4 @@
 # friendly-zuul
 
 #closing issue #1
+#closing issue #2
